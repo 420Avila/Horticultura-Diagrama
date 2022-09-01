@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-01T03:10:44.401Z" agent="5.0 (Windows)" etag="bVRJNRD0_3zpkAZ8zh3P" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-01T03:18:47.356Z" agent="5.0 (Windows)" etag="1-F24rjL49Qk_olEqwdw" version="20.2.7" type="github">
   <diagram id="4PT_vkWamiO-nSXqBPPG" name="Página-1">
-    <mxGraphModel dx="1704" dy="1014" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="775" dy="1630" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="S0YFLjFQys3BDrwnXeZM-1" value="hortalizas" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF0000;strokeColor=#b85450;gradientColor=none;glass=0;shadow=0;sketch=0;perimeterSpacing=7;" parent="1" vertex="1">
-          <mxGeometry x="716" y="16" width="230" height="34" as="geometry" />
+          <mxGeometry x="720" y="-1" width="230" height="34" as="geometry" />
         </mxCell>
         <mxCell id="nCWuup4R4AbDnW3DWiKd-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="nCWuup4R4AbDnW3DWiKd-4" target="nCWuup4R4AbDnW3DWiKd-9" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -18,8 +18,11 @@
         <mxCell id="nCWuup4R4AbDnW3DWiKd-4" value="Familia" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;shadow=0;glass=0;sketch=0;fillColor=#FF0000;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="131" y="445" width="150" height="25" as="geometry" />
         </mxCell>
+        <mxCell id="QRhNImlcriRFlgjVjBWK-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.489;entryY=-0.026;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;fontColor=#030303;" edge="1" parent="1" source="nCWuup4R4AbDnW3DWiKd-6" target="66M02JN2FrkitM-om0R4-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="nCWuup4R4AbDnW3DWiKd-6" value="&amp;nbsp;Por su uso" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;shadow=0;glass=0;sketch=0;fillColor=#FF0000;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1430" y="140" width="100" height="30" as="geometry" />
+          <mxGeometry x="1397" y="141" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nCWuup4R4AbDnW3DWiKd-7" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Parte comestible&lt;/font&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;shadow=0;glass=0;sketch=0;fillColor=#FF0000;gradientColor=none;align=center;verticalAlign=bottom;horizontal=1;fontSize=13;labelBackgroundColor=none;labelBorderColor=none;" parent="1" vertex="1">
           <mxGeometry x="413" y="325" width="170" height="30" as="geometry" />
@@ -340,11 +343,17 @@
         <mxCell id="66M02JN2FrkitM-om0R4-21" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;endArrow=open;" parent="1" source="nCWuup4R4AbDnW3DWiKd-6" target="nCWuup4R4AbDnW3DWiKd-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="QRhNImlcriRFlgjVjBWK-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;fontColor=#030303;" edge="1" parent="1" source="66M02JN2FrkitM-om0R4-22" target="66M02JN2FrkitM-om0R4-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="66M02JN2FrkitM-om0R4-22" value="rama de la agricultura, se&amp;nbsp; orienta hacia el cultivo intensivo de las plantas&amp;nbsp; utilizadas por el hombre con propósitos de &amp;nbsp;&lt;br&gt;alimentación, medicinales y ornamentales." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF0000;strokeColor=#b85450;gradientColor=none;glass=0;shadow=0;sketch=0;" parent="1" vertex="1">
-          <mxGeometry x="1280" y="190" width="336" height="60" as="geometry" />
+          <mxGeometry x="1282" y="234" width="336" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QRhNImlcriRFlgjVjBWK-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontSize=12;fontColor=#030303;" edge="1" parent="1" source="66M02JN2FrkitM-om0R4-24" target="nCWuup4R4AbDnW3DWiKd-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="66M02JN2FrkitM-om0R4-24" value="Definición" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1337" y="44" width="120" height="20" as="geometry" />
+          <mxGeometry x="1074" y="152" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="QRhNImlcriRFlgjVjBWK-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;fontColor=#030303;" edge="1" parent="1" source="66M02JN2FrkitM-om0R4-26" target="QRhNImlcriRFlgjVjBWK-11">
           <mxGeometry relative="1" as="geometry" />
@@ -363,36 +372,39 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="QRhNImlcriRFlgjVjBWK-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;fontColor=#030303;" edge="1" parent="1" source="66M02JN2FrkitM-om0R4-26" target="66M02JN2FrkitM-om0R4-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="66M02JN2FrkitM-om0R4-26" value="Clasificación" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;gradientColor=none;fillColor=#FF0A0A;" parent="1" vertex="1">
           <mxGeometry x="770" y="110" width="130" height="38" as="geometry" />
         </mxCell>
         <mxCell id="66M02JN2FrkitM-om0R4-31" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=open;" parent="1" source="66M02JN2FrkitM-om0R4-28" target="66M02JN2FrkitM-om0R4-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QRhNImlcriRFlgjVjBWK-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="66M02JN2FrkitM-om0R4-28">
+        <mxCell id="QRhNImlcriRFlgjVjBWK-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="66M02JN2FrkitM-om0R4-28" target="QRhNImlcriRFlgjVjBWK-57">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1424" y="282" as="targetPoint" />
+            <mxPoint x="1424" y="344" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="66M02JN2FrkitM-om0R4-28" value="Alimentación, " style="whiteSpace=wrap;html=1;fillColor=#FF0000;shadow=0;glass=0;sketch=0;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1314" y="272" width="90" height="20" as="geometry" />
+          <mxGeometry x="1314" y="334" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="QRhNImlcriRFlgjVjBWK-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="66M02JN2FrkitM-om0R4-30" target="QRhNImlcriRFlgjVjBWK-64">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QRhNImlcriRFlgjVjBWK-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="66M02JN2FrkitM-om0R4-30">
+        <mxCell id="QRhNImlcriRFlgjVjBWK-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="66M02JN2FrkitM-om0R4-30" target="QRhNImlcriRFlgjVjBWK-60">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1474" y="312" as="targetPoint" />
+            <mxPoint x="1474" y="374" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="66M02JN2FrkitM-om0R4-30" value="Medicinales " style="whiteSpace=wrap;html=1;fillColor=#FF0000;shadow=0;glass=0;sketch=0;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1314" y="303" width="90" height="19" as="geometry" />
+          <mxGeometry x="1314" y="365" width="90" height="19" as="geometry" />
         </mxCell>
         <mxCell id="QRhNImlcriRFlgjVjBWK-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;fontColor=#030303;" edge="1" parent="1" source="QRhNImlcriRFlgjVjBWK-7" target="QRhNImlcriRFlgjVjBWK-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QRhNImlcriRFlgjVjBWK-7" value="&amp;nbsp;ciencia que agrupa ordenadamente a los&amp;nbsp; organismos vivos de acuerdo a lo que se presume son sus relaciones naturales," style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="327" y="120" width="220" height="60" as="geometry" />
+          <mxGeometry x="223" y="99" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QRhNImlcriRFlgjVjBWK-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="QRhNImlcriRFlgjVjBWK-9" target="nCWuup4R4AbDnW3DWiKd-4">
           <mxGeometry relative="1" as="geometry">
@@ -402,14 +414,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="QRhNImlcriRFlgjVjBWK-9" value="&lt;font data-darkreader-inline-color=&quot;&quot; style=&quot;--darkreader-inline-color: #e6e4e1; font-size: 12px;&quot; color=&quot;#030303&quot;&gt;• REINO Plantae &amp;nbsp;&lt;br&gt;• DIVISION: Spermatophyta &amp;nbsp;&lt;br&gt;• SUBDIVISION: Angiospermae &amp;nbsp;&lt;br&gt;• CLASE: Dicotyledoneae &amp;nbsp;&lt;br&gt;• SUBCLASE: Metachlamideae &amp;nbsp;&lt;br&gt;• ORDEN: Cucurbitales &amp;nbsp;&lt;br&gt;• FAMILIA: Cucurbitaceae &amp;nbsp;&lt;br&gt;• GENERO: Cucumis &amp;nbsp;&lt;br&gt;• ESPECIE: Cucumis melo &amp;nbsp;&lt;br&gt;• VARIEDAD BOTANICA: Cucumis melo var. Inodorus&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;align=left;fontSize=10;fillColor=#FFFF00;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="QRhNImlcriRFlgjVjBWK-9" value="&lt;font data-darkreader-inline-color=&quot;&quot; style=&quot;--darkreader-inline-color: #e6e4e1; font-size: 12px;&quot; color=&quot;#030303&quot;&gt;• REINO Plantae &amp;nbsp;&lt;br&gt;• DIVISION: Spermatophyta &amp;nbsp;&lt;br&gt;• SUBDIVISION: Angiospermae &amp;nbsp;&lt;br&gt;• CLASE: Dicotyledoneae &amp;nbsp;&lt;br&gt;• SUBCLASE: Metachlamideae &amp;nbsp;&lt;br&gt;• ORDEN: Cucurbitales &amp;nbsp;&lt;br&gt;• FAMILIA: Cucurbitaceae &amp;nbsp;&lt;br&gt;• GENERO: Cucumis &amp;nbsp;&lt;br&gt;• ESPECIE: Cucumis melo &amp;nbsp;&lt;br&gt;• VARIEDAD BOTANICA: Cucumis melo var. Inodorus&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;align=left;fontSize=10;fillColor=none;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="36" y="214" width="261" height="208" as="geometry" />
         </mxCell>
         <mxCell id="QRhNImlcriRFlgjVjBWK-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;fontColor=#030303;" edge="1" parent="1" source="QRhNImlcriRFlgjVjBWK-11" target="QRhNImlcriRFlgjVjBWK-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QRhNImlcriRFlgjVjBWK-11" value="Taxonomía" style="whiteSpace=wrap;html=1;fontSize=16;gradientColor=none;fillColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="580" y="120" width="90" height="40" as="geometry" />
+          <mxGeometry x="579" y="109" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QRhNImlcriRFlgjVjBWK-28" value="&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span id=&quot;page172R_mcid4&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 93.2813px; top: 148.389px; font-family: sans-serif; transform: scaleX(1.25542);&quot;&gt;poseen&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span id=&quot;page172R_mcid4&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 125.536px; top: 170.892px; font-family: sans-serif; transform: scaleX(1.2881);&quot;&gt; temperaturas óptimas de crecimiento entre 15 y&lt;/span&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 645.565px; top: 170.892px; font-family: sans-serif;&quot;&gt; &lt;/span&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 652.513px; top: 170.892px; font-family: sans-serif; transform: scaleX(1.14658);&quot;&gt;18&lt;/span&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 676.88px; top: 170.892px; font-family: sans-serif;&quot;&gt;°&lt;/span&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 684.476px; top: 170.892px; font-family: sans-serif; transform: scaleX(1.08395);&quot;&gt;C. No&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span id=&quot;page172R_mcid4&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 125.536px; top: 193.825px; font-family: sans-serif; transform: scaleX(1.28348);&quot;&gt; toleran temperaturas mayores a 24&lt;/span&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 615.784px; top: 193.825px; font-family: sans-serif;&quot;&gt;°&lt;/span&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 623.381px; top: 193.825px; font-family: sans-serif; transform: scaleX(1.21134);&quot;&gt;C y sólo &lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span id=&quot;page172R_mcid4&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 125.536px; top: 217.189px; font-family: sans-serif; transform: scaleX(1.26527);&quot;&gt;toleran heladas suaves.&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=10;rounded=0;fillColor=#FF0000;align=center;" vertex="1" parent="1">
           <mxGeometry x="913" y="485" width="273" height="57" as="geometry" />
@@ -417,7 +429,7 @@
         <mxCell id="QRhNImlcriRFlgjVjBWK-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;fontColor=#030303;" edge="1" parent="1" source="QRhNImlcriRFlgjVjBWK-30" target="QRhNImlcriRFlgjVjBWK-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QRhNImlcriRFlgjVjBWK-30" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span id=&quot;page172R_mcid6&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 93.2813px; top: 492.448px; font-family: sans-serif; transform: scaleX(1.25553);&quot;&gt;Grupo C: &lt;/span&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="QRhNImlcriRFlgjVjBWK-30" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span id=&quot;page172R_mcid6&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 93.2813px; top: 492.448px; font-family: sans-serif; transform: scaleX(1.25553);&quot;&gt;Grupo C: &lt;/span&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#FF8000;" vertex="1" parent="1">
           <mxGeometry x="813" y="627" width="71" height="20" as="geometry" />
         </mxCell>
         <mxCell id="QRhNImlcriRFlgjVjBWK-33" value="&lt;div align=&quot;center&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span id=&quot;page172R_mcid5&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 93.2813px; top: 308.958px; font-family: sans-serif; transform: scaleX(1.26108);&quot;&gt;se diferencian de &lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span id=&quot;page172R_mcid5&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 125.536px; top: 331.891px; font-family: sans-serif; transform: scaleX(1.26776);&quot;&gt;las del grupo anterior en que son susceptibles a heladas &lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span id=&quot;page172R_mcid5&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 125.536px; top: 354.825px; font-family: sans-serif; transform: scaleX(1.26036);&quot;&gt;cerca de su madurez. &lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#FF0000;align=center;" vertex="1" parent="1">
@@ -435,7 +447,7 @@
         <mxCell id="QRhNImlcriRFlgjVjBWK-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.006;entryY=0.649;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;fontColor=#030303;" edge="1" parent="1" source="QRhNImlcriRFlgjVjBWK-42" target="QRhNImlcriRFlgjVjBWK-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QRhNImlcriRFlgjVjBWK-42" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span id=&quot;page172R_mcid5&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 93.2813px; top: 308.958px; font-family: sans-serif; transform: scaleX(1.26108);&quot;&gt;Grupo B&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="QRhNImlcriRFlgjVjBWK-42" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span id=&quot;page172R_mcid5&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 93.2813px; top: 308.958px; font-family: sans-serif; transform: scaleX(1.26108);&quot;&gt;Grupo B&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#FF8000;fillStyle=auto;" vertex="1" parent="1">
           <mxGeometry x="813" y="577" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="QRhNImlcriRFlgjVjBWK-48" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span id=&quot;page172R_mcid4&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 393.814px; top: 217.189px; font-family: sans-serif; transform: scaleX(1.27327);&quot;&gt;berro de agua, brócoli, remolacha,&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;br role=&quot;presentation&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span id=&quot;page172R_mcid4&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 125.536px; top: 240.136px; font-family: sans-serif; transform: scaleX(1.26893);&quot;&gt;repollo, colirrábano, espinaca, haba, nabo.&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;span id=&quot;page172R_mcid5&quot; class=&quot;markedContent&quot;&gt;&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=12;fillColor=#3333FF;" vertex="1" parent="1">
@@ -444,25 +456,25 @@
         <mxCell id="QRhNImlcriRFlgjVjBWK-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;fontColor=#030303;" edge="1" parent="1" source="QRhNImlcriRFlgjVjBWK-47" target="QRhNImlcriRFlgjVjBWK-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QRhNImlcriRFlgjVjBWK-47" value="&#xa;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;div align=&quot;justify&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span id=&quot;page172R_mcid4&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 93.2813px; top: 148.389px; font-family: sans-serif; transform: scaleX(1.25542);&quot;&gt;Grupo A:&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="QRhNImlcriRFlgjVjBWK-47" value="&#xa;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;div align=&quot;justify&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span id=&quot;page172R_mcid4&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 93.2813px; top: 148.389px; font-family: sans-serif; transform: scaleX(1.25542);&quot;&gt;Grupo A:&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#FF8000;" vertex="1" parent="1">
           <mxGeometry x="815" y="501" width="76" height="22" as="geometry" />
         </mxCell>
         <mxCell id="QRhNImlcriRFlgjVjBWK-57" value="Brócoli, Tomate" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#F065D4;shadow=0;glass=0;sketch=0;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1460" y="270" width="120" height="20" as="geometry" />
+          <mxGeometry x="1468" y="333" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="QRhNImlcriRFlgjVjBWK-60" value="Zanahoria&lt;br&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#F065D4;shadow=0;glass=0;sketch=0;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1460" y="300" width="120" height="20" as="geometry" />
+          <mxGeometry x="1463" y="365" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="QRhNImlcriRFlgjVjBWK-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="QRhNImlcriRFlgjVjBWK-64">
+        <mxCell id="QRhNImlcriRFlgjVjBWK-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QRhNImlcriRFlgjVjBWK-64" target="QRhNImlcriRFlgjVjBWK-71">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1474" y="342" as="targetPoint" />
+            <mxPoint x="1474" y="404" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QRhNImlcriRFlgjVjBWK-64" value="Ornamentales" style="whiteSpace=wrap;html=1;fillColor=#FF0000;shadow=0;glass=0;sketch=0;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1314" y="332" width="90" height="19" as="geometry" />
+          <mxGeometry x="1314" y="394" width="90" height="19" as="geometry" />
         </mxCell>
         <mxCell id="QRhNImlcriRFlgjVjBWK-71" value="&lt;br&gt;&lt;span class=&quot;ILfuVd&quot; lang=&quot;es&quot;&gt;&lt;span class=&quot;hgKElc&quot;&gt;Coles rizadas de colores&lt;/span&gt;&lt;/span&gt;&lt;br&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#F065D4;shadow=0;glass=0;sketch=0;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1456" y="335" width="120" height="20" as="geometry" />
+          <mxGeometry x="1458" y="394" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="QRhNImlcriRFlgjVjBWK-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;fontColor=#030303;" edge="1" parent="1" source="QRhNImlcriRFlgjVjBWK-76" target="QRhNImlcriRFlgjVjBWK-78">
           <mxGeometry relative="1" as="geometry" />
@@ -474,37 +486,37 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="QRhNImlcriRFlgjVjBWK-76" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;br&gt;&lt;span id=&quot;page189R_mcid1&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 186.501px; top: 160.315px; font-family: sans-serif; transform: scaleX(1.19311);&quot;&gt;ESTACION CALIDA&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=10;rounded=0;" vertex="1" parent="1">
+        <mxCell id="QRhNImlcriRFlgjVjBWK-76" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;br&gt;&lt;span id=&quot;page189R_mcid1&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 186.501px; top: 160.315px; font-family: sans-serif; transform: scaleX(1.19311);&quot;&gt;ESTACION CALIDA&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=10;rounded=0;fillColor=#00FFFF;" vertex="1" parent="1">
           <mxGeometry x="693" y="758" width="84" height="37" as="geometry" />
         </mxCell>
         <mxCell id="QRhNImlcriRFlgjVjBWK-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;fontColor=#030303;" edge="1" parent="1" source="QRhNImlcriRFlgjVjBWK-78" target="QRhNImlcriRFlgjVjBWK-84">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QRhNImlcriRFlgjVjBWK-78" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot; id=&quot;page189R_mcid2&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 83.85px; top: 188.982px; font-family: sans-serif; transform: scaleX(1.25142);&quot;&gt;Grupo D&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=10;rounded=0;" vertex="1" parent="1">
+        <mxCell id="QRhNImlcriRFlgjVjBWK-78" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot; id=&quot;page189R_mcid2&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 83.85px; top: 188.982px; font-family: sans-serif; transform: scaleX(1.25142);&quot;&gt;Grupo D&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=10;rounded=0;fillColor=#FF8000;" vertex="1" parent="1">
           <mxGeometry x="793" y="728" width="86" height="25" as="geometry" />
         </mxCell>
         <mxCell id="QRhNImlcriRFlgjVjBWK-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;fontColor=#030303;" edge="1" parent="1" source="QRhNImlcriRFlgjVjBWK-80" target="QRhNImlcriRFlgjVjBWK-82">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QRhNImlcriRFlgjVjBWK-80" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span id=&quot;page189R_mcid3&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 83.85px; top: 389.708px; font-family: sans-serif; transform: scaleX(1.25804);&quot;&gt;Grupo E: &lt;/span&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 83.85px; top: 475.278px; font-family: sans-serif; transform: scaleX(1.34246);&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=10;rounded=0;" vertex="1" parent="1">
+        <mxCell id="QRhNImlcriRFlgjVjBWK-80" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span id=&quot;page189R_mcid3&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 83.85px; top: 389.708px; font-family: sans-serif; transform: scaleX(1.25804);&quot;&gt;Grupo E: &lt;/span&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 83.85px; top: 475.278px; font-family: sans-serif; transform: scaleX(1.34246);&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=10;rounded=0;fillColor=#FF8000;" vertex="1" parent="1">
           <mxGeometry x="793" y="812" width="91" height="27" as="geometry" />
         </mxCell>
         <mxCell id="QRhNImlcriRFlgjVjBWK-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;fontColor=#030303;" edge="1" parent="1" source="QRhNImlcriRFlgjVjBWK-82" target="QRhNImlcriRFlgjVjBWK-88">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QRhNImlcriRFlgjVjBWK-82" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span id=&quot;page189R_mcid3&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 83.85px; top: 389.708px; font-family: sans-serif; transform: scaleX(1.25804);&quot;&gt;Este grupo sólo se diferencia del anterior en&lt;/span&gt;&lt;br role=&quot;presentation&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 83.85px; top: 418.375px; font-family: sans-serif; transform: scaleX(1.26669);&quot;&gt;que sus temperaturas óptimas son mayores, por&lt;/span&gt; &lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 83.85px; top: 446.611px; font-family: sans-serif; transform: scaleX(1.25982);&quot;&gt;sobre los 21&lt;/span&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 248.134px; top: 446.611px; font-family: sans-serif;&quot;&gt;°&lt;/span&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 257.737px; top: 446.611px; font-family: sans-serif; transform: scaleX(1.25688);&quot;&gt;C&lt;/span&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 83.85px; top: 475.278px; font-family: sans-serif; transform: scaleX(1.34246);&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=10;rounded=0;" vertex="1" parent="1">
+        <mxCell id="QRhNImlcriRFlgjVjBWK-82" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span id=&quot;page189R_mcid3&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 83.85px; top: 389.708px; font-family: sans-serif; transform: scaleX(1.25804);&quot;&gt;Este grupo sólo se diferencia del anterior en&lt;/span&gt;&lt;br role=&quot;presentation&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 83.85px; top: 418.375px; font-family: sans-serif; transform: scaleX(1.26669);&quot;&gt;que sus temperaturas óptimas son mayores, por&lt;/span&gt; &lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 83.85px; top: 446.611px; font-family: sans-serif; transform: scaleX(1.25982);&quot;&gt;sobre los 21&lt;/span&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 248.134px; top: 446.611px; font-family: sans-serif;&quot;&gt;°&lt;/span&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 257.737px; top: 446.611px; font-family: sans-serif; transform: scaleX(1.25688);&quot;&gt;C&lt;/span&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 83.85px; top: 475.278px; font-family: sans-serif; transform: scaleX(1.34246);&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=10;rounded=0;fillColor=#FF0A0A;" vertex="1" parent="1">
           <mxGeometry x="913" y="795" width="256" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QRhNImlcriRFlgjVjBWK-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;fontColor=#030303;" edge="1" parent="1" source="QRhNImlcriRFlgjVjBWK-84" target="QRhNImlcriRFlgjVjBWK-86">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QRhNImlcriRFlgjVjBWK-84" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot; id=&quot;page189R_mcid2&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 83.85px; top: 188.982px; font-family: sans-serif; transform: scaleX(1.25142);&quot;&gt;&amp;nbsp;se adapta a temperaturas que&lt;/span&gt;&lt;br role=&quot;presentation&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 83.85px; top: 217.232px; font-family: sans-serif; transform: scaleX(1.27426);&quot;&gt;van entre los 18 y 27&lt;/span&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 367.423px; top: 217.232px; font-family: sans-serif;&quot;&gt;°&lt;/span&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 377.026px; top: 217.232px; font-family: sans-serif; transform: scaleX(1.24652);&quot;&gt;C y no toleran heladas en&lt;/span&gt; &lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 83.85px; top: 246.351px; font-family: sans-serif; transform: scaleX(1.2731);&quot;&gt;ningún momento de su desarrollo&lt;/span&gt;&lt;/span&gt;&lt;span id=&quot;page189R_mcid3&quot; class=&quot;markedContent&quot;&gt;&lt;br role=&quot;presentation&quot;&gt;&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=10;rounded=0;" vertex="1" parent="1">
+        <mxCell id="QRhNImlcriRFlgjVjBWK-84" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot; id=&quot;page189R_mcid2&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 83.85px; top: 188.982px; font-family: sans-serif; transform: scaleX(1.25142);&quot;&gt;&amp;nbsp;se adapta a temperaturas que&lt;/span&gt;&lt;br role=&quot;presentation&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 83.85px; top: 217.232px; font-family: sans-serif; transform: scaleX(1.27426);&quot;&gt;van entre los 18 y 27&lt;/span&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 367.423px; top: 217.232px; font-family: sans-serif;&quot;&gt;°&lt;/span&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 377.026px; top: 217.232px; font-family: sans-serif; transform: scaleX(1.24652);&quot;&gt;C y no toleran heladas en&lt;/span&gt; &lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 83.85px; top: 246.351px; font-family: sans-serif; transform: scaleX(1.2731);&quot;&gt;ningún momento de su desarrollo&lt;/span&gt;&lt;/span&gt;&lt;span id=&quot;page189R_mcid3&quot; class=&quot;markedContent&quot;&gt;&lt;br role=&quot;presentation&quot;&gt;&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=10;rounded=0;fillColor=#FF0A0A;" vertex="1" parent="1">
           <mxGeometry x="913" y="710" width="202" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QRhNImlcriRFlgjVjBWK-86" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot; id=&quot;page189R_mcid2&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 555.644px; top: 246.351px; font-family: sans-serif; transform: scaleX(1.23784);&quot;&gt;Cucurbitaceas&lt;/span&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 83.85px; top: 275.018px; font-family: sans-serif; transform: scaleX(1.26407);&quot;&gt;(calabaza, zapallo, pepino), Solanaceas (pimentón.&lt;/span&gt;&lt;/span&gt;&lt;span id=&quot;page189R_mcid3&quot; class=&quot;markedContent&quot;&gt;&lt;br role=&quot;presentation&quot;&gt;&lt;/span&gt;&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=10;rounded=0;" vertex="1" parent="1">
+        <mxCell id="QRhNImlcriRFlgjVjBWK-86" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot; id=&quot;page189R_mcid2&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 555.644px; top: 246.351px; font-family: sans-serif; transform: scaleX(1.23784);&quot;&gt;Cucurbitaceas&lt;/span&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 83.85px; top: 275.018px; font-family: sans-serif; transform: scaleX(1.26407);&quot;&gt;(calabaza, zapallo, pepino), Solanaceas (pimentón.&lt;/span&gt;&lt;/span&gt;&lt;span id=&quot;page189R_mcid3&quot; class=&quot;markedContent&quot;&gt;&lt;br role=&quot;presentation&quot;&gt;&lt;/span&gt;&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=10;rounded=0;fillColor=#3333FF;" vertex="1" parent="1">
           <mxGeometry x="1193" y="711" width="270" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QRhNImlcriRFlgjVjBWK-88" value="&lt;br&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span id=&quot;page189R_mcid3&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 257.737px; top: 446.611px; font-family: sans-serif; transform: scaleX(1.25688);&quot;&gt;Ají, berenjena, ocumo, camote y&lt;/span&gt;&lt;br role=&quot;presentation&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 83.85px; top: 475.278px; font-family: sans-serif; transform: scaleX(1.34246);&quot;&gt;patilla.&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;br&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=10;rounded=0;" vertex="1" parent="1">
+        <mxCell id="QRhNImlcriRFlgjVjBWK-88" value="&lt;br&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span id=&quot;page189R_mcid3&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 257.737px; top: 446.611px; font-family: sans-serif; transform: scaleX(1.25688);&quot;&gt;Ají, berenjena, ocumo, camote y&lt;/span&gt;&lt;br role=&quot;presentation&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 83.85px; top: 475.278px; font-family: sans-serif; transform: scaleX(1.34246);&quot;&gt;patilla.&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;br&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=10;rounded=0;fillColor=#3333FF;" vertex="1" parent="1">
           <mxGeometry x="1193" y="805" width="216" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QRhNImlcriRFlgjVjBWK-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;fontColor=#030303;" edge="1" parent="1" source="QRhNImlcriRFlgjVjBWK-94" target="QRhNImlcriRFlgjVjBWK-101">
@@ -512,6 +524,14 @@
         </mxCell>
         <mxCell id="QRhNImlcriRFlgjVjBWK-94" value="Clima " style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=12;fontColor=#030303;strokeColor=#FF0000;fillColor=#FFFF00;" vertex="1" parent="1">
           <mxGeometry x="923" y="325" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QRhNImlcriRFlgjVjBWK-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;fontColor=#030303;" edge="1" parent="1" source="QRhNImlcriRFlgjVjBWK-98" target="nCWuup4R4AbDnW3DWiKd-50">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="526" y="467" />
+              <mxPoint x="443" y="467" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="QRhNImlcriRFlgjVjBWK-98" value="Son fundamentales en la dieta del ser humano, en su mayoría poseen una gran cantidad de agua, fibra, vitaminas, minerales, antioxidantes, además de su baja densidad calórica y carencia de grasas." style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fontColor=#030303;strokeColor=#FF0000;fillColor=#FFFF00;" vertex="1" parent="1">
           <mxGeometry x="363" y="375" width="327" height="86" as="geometry" />
@@ -539,7 +559,7 @@
         <mxCell id="QRhNImlcriRFlgjVjBWK-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;fontColor=#030303;" edge="1" parent="1" source="QRhNImlcriRFlgjVjBWK-102" target="QRhNImlcriRFlgjVjBWK-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QRhNImlcriRFlgjVjBWK-102" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;br&gt;&lt;span id=&quot;page189R_mcid1&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 186.501px; top: 160.315px; font-family: sans-serif; transform: scaleX(1.19311);&quot;&gt;ESTACION FRIA&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=10;rounded=0;" vertex="1" parent="1">
+        <mxCell id="QRhNImlcriRFlgjVjBWK-102" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;br&gt;&lt;span id=&quot;page189R_mcid1&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 186.501px; top: 160.315px; font-family: sans-serif; transform: scaleX(1.19311);&quot;&gt;ESTACION FRIA&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=10;rounded=0;fillColor=#00FFFF;" vertex="1" parent="1">
           <mxGeometry x="693" y="565" width="82" height="37" as="geometry" />
         </mxCell>
       </root>
